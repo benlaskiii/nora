@@ -36,7 +36,7 @@ social:
   email: augusdora@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.instagram.com/benlaskiii/ # change to your twitter homepage
+  #  - https://www.instagram.com/benlaskiii/ # change to your twitter homepage
     - https://github.com/benlaskiii # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -86,7 +86,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: https://avatars.githubusercontent.com/u/125552971?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
